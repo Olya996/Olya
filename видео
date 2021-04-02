@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body bgcolor="#c0c0c0">
+<h1>Аудиофайл с песней военных лет</h1>
+<p>День Победы</p>
+<audio controls>
+<source src="/home/kursant/Загрузки/Voennye_-_Den_pobedy_34886095.mp3"></audio>
+</audio>
+<header><h2>Видео с ПК</h2></header>
+<video width="560" height="315" src="/home/kursant/Загрузки/В НАСКОЛЬКО МАЛЕНЬКОЕ ОТВЕРСТИЕ СМОГУТ ПРОЛЕЗТЬ КОТЫ_ Челлендж для ЖИВОТНЫХ.mp4" controls></video>
+<header><h3>Видео Youtube</h3></header>
+<iframe width="500" height="300" src="https://www.youtube.com/watch?v=SOqM6CyOsGw"></iframe>
+<body>
+</body>
+</html>
